@@ -1,6 +1,17 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,300italic);
+@import url(
+  http://fonts.googleapis.com/css?family=Ubuntu:300,
+  400,
+  500,
+  300italic
+);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700);
+@import url(
+  http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,
+  300,
+  400,
+  600,
+  700
+);
 body {
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -135,9 +146,9 @@ header .social-info li a:hover {
 #banner .block .download-btn li .btn-apple {
   background: #8883bc;
   border: 1px solid transparent;
-  -webkit-transition: .2s all;
-  -o-transition: .2s all;
-  transition: .2s all;
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all;
 }
 #banner .block .download-btn li .btn-apple:hover {
   color: #8883bc;
@@ -147,9 +158,9 @@ header .social-info li a:hover {
 #banner .block .download-btn li .btn-andriod {
   background: #6fbf39;
   border: 1px solid transparent;
-  -webkit-transition: .2s all;
-  -o-transition: .2s all;
-  transition: .2s all;
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all;
 }
 #banner .block .download-btn li .btn-andriod:hover {
   color: #6fbf39;
@@ -159,9 +170,9 @@ header .social-info li a:hover {
 #banner .block .download-btn li .btn-windows {
   background: #00afec;
   border: 1px solid transparent;
-  -webkit-transition: .2s all;
-  -o-transition: .2s all;
-  transition: .2s all;
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all;
 }
 #banner .block .download-btn li .btn-windows:hover {
   color: #00afec;
@@ -187,7 +198,7 @@ header .social-info li a:hover {
   color: #f48e5c;
 }
 #service .block:hover .icon {
-  border: 1px solid #FFFFFF;
+  border: 1px solid #ffffff;
   background: #f48e5c;
   color: #fff;
   -webkit-box-shadow: 0 0 0px 2px #f48e5c;
@@ -201,17 +212,17 @@ header .social-info li a:hover {
   border-radius: 100%;
   border: 1px solid #dedede;
   text-align: center;
-  -webkit-transition: .2s all;
-  -o-transition: .2s all;
-  transition: .2s all;
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all;
 }
 #service .block i {
   font-size: 25px;
   line-height: 90px;
   color: #989898;
-  -webkit-transition: .2s all;
-  -o-transition: .2s all;
-  transition: .2s all;
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all;
 }
 #service .block h3 {
   color: #555;
@@ -278,7 +289,7 @@ header .social-info li a:hover {
 }
 #utility-2 .block p {
   line-height: 32px;
-  color: #9AA0A9;
+  color: #9aa0a9;
   font-size: 16px;
 }
 #subscribe {
@@ -289,7 +300,7 @@ header .social-info li a:hover {
   padding-top: 40px;
 }
 #subscribe p {
-  color: #96908E;
+  color: #96908e;
 }
 #subscribe .form-inline {
   padding-top: 16px;
@@ -324,9 +335,9 @@ header .social-info li a:hover {
   border: none;
   margin-left: -4px;
   border: 1px solid transparent;
-  -webkit-transition: .2s all;
-  -o-transition: .2s all;
-  transition: .2s all;
+  -webkit-transition: 0.2s all;
+  -o-transition: 0.2s all;
+  transition: 0.2s all;
 }
 #subscribe .btn-signup:hover {
   background: #fff;
@@ -346,7 +357,7 @@ footer .footer-logo {
   text-align: center;
 }
 footer p {
-  color: #6F6F6F;
+  color: #6f6f6f;
   margin-top: 10px;
   margin-bottom: 0;
 }
