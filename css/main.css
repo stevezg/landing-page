@@ -81,6 +81,12 @@ header {
   width: 100%;
   z-index: 999;
 }
+.img-logo {
+  width: 40%;
+}
+.img-logo-footer {
+  width: 70%;
+}
 header .logo {
   display: inline-block;
   margin-top: 8px;
