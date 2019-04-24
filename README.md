@@ -16,4 +16,4 @@ Have a bug or a feature request? Please open a new issue.
 
 ## Copyright and license
 
-Copyright 2019 Ciao, <a target="_blank" href="www.steveanderson.club">Steve Anderson</a>
+Copyright 2019 Ciao, <a target="_blank" href="http://steveanderson.club">Steve Anderson</a>
